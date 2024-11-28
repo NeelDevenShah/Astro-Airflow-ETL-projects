@@ -45,7 +45,7 @@ To gain experience in building, scheduling, and monitoring ETL workflows using A
 1. Clone the Repository:
 
    ```bash
-   git clone https://github.com/NeelDevenShah/astro-projects.git
+   git clone https://github.com/NeelDevenShah/Astro-Airflow-ETL-projects.git
    cd <repo-directory> (As per the project)
    ```
 
